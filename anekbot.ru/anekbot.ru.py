@@ -11,7 +11,7 @@ jokes = []
 def start(m, res = False):
     markup = types.ReplyKeyboardMarkup(resize_keyboard = False)
     item0 = types.KeyboardButton("из этой же категории")
-    item1 = types.KeyboardButton("основные")
+    item1 = types.KeyboardButton("оjcyjdе")
     item2 = types.KeyboardButton("лучшие прошлых лет")
     item3 = types.KeyboardButton("все новые за день")
     item4 = types.KeyboardButton("злободневные")
